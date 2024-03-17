@@ -60,3 +60,15 @@ The goal of this project is to simulate a corporate-grade end-to-end data analyt
     - Build presentation deck using Gamma AI
   
 7.  **Follow along with the YouTube video for full walkthrough.**
+
+
+## About the Maintainer
+
+This project is maintained by **Jyothi Kalakoti**, a Data Analyst with experience in **SQL, Python, and data visualization using Power BI and Tableau**. She focuses on transforming raw data into meaningful insights through data analysis, dashboards, and visualization.
+
+Her work involves **data cleaning, exploratory data analysis (EDA), and building analytics solutions using Python, SQL, and PySpark**.
+
+### Connect with Jyothi Kalakoti
+*   Email: shabnamr214@gmail.com
+
+
