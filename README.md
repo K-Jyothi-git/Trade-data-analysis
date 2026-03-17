@@ -69,7 +69,7 @@ This project is maintained by **Jyothi Kalakoti**, a Data Analyst with experienc
 Her work involves **data cleaning, exploratory data analysis (EDA), and building analytics solutions using Python, SQL, and PySpark**.
 
 ### Connect with Jyothi Kalakoti
-*   Email: shabnamr214@gmail.com
+*   Email:  Kalakotijyothi01@gmail.com
 
 
 ## Thanks for checking out the project!
